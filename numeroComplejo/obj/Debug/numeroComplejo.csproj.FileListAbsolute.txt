@@ -1,0 +1,7 @@
+C:\Users\Alfonso-PC\Desktop\DAW\PROGRAMACION\PRACTICAS\numeroComplejo\numeroComplejo\obj\Debug\numeroComplejo.csprojResolveAssemblyReference.cache
+C:\Users\Alfonso-PC\Desktop\DAW\PROGRAMACION\PRACTICAS\numeroComplejo\numeroComplejo\obj\Debug\numeroComplejo.csproj.CoreCompileInputs.cache
+C:\Users\Alfonso-PC\Desktop\DAW\PROGRAMACION\PRACTICAS\numeroComplejo\numeroComplejo\bin\Debug\numeroComplejo.exe.config
+C:\Users\Alfonso-PC\Desktop\DAW\PROGRAMACION\PRACTICAS\numeroComplejo\numeroComplejo\bin\Debug\numeroComplejo.exe
+C:\Users\Alfonso-PC\Desktop\DAW\PROGRAMACION\PRACTICAS\numeroComplejo\numeroComplejo\bin\Debug\numeroComplejo.pdb
+C:\Users\Alfonso-PC\Desktop\DAW\PROGRAMACION\PRACTICAS\numeroComplejo\numeroComplejo\obj\Debug\numeroComplejo.exe
+C:\Users\Alfonso-PC\Desktop\DAW\PROGRAMACION\PRACTICAS\numeroComplejo\numeroComplejo\obj\Debug\numeroComplejo.pdb
